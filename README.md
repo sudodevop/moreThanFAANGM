@@ -235,6 +235,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://careers.cleartrip.com/#!/">Cleartrip</a></li>
 <li><a href="https://www.cloudera.com/careers.html">Cloudera</a>  </li>
 <li><a href="https://www.cloudflare.com/careers/jobs/">cloudflare</a>  </li>
+<li><a href="https://crossover.com/">Crossover</a>  </li>
 <li><a href="http://codenation.co.in/hiringprocess.html">Codenation innovation labs</a>  </li>
 <li><a href="https://cutshort.io/company/codeparva-technologies-pvt-ltd-t0cDhxZW">CodeParva Technologies Pvt Ltd</a></li>
 <li><a href="https://www.linkedin.com/jobs/coding-ninjas-jobs/?originalSubdomain=in">CodingNinjas</a> </li>
@@ -248,6 +249,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://rocketyourcareer.usa.coupang.com/">Coupang</a></li>
 <li><a href="https://cradlepoint.com/about-us/careers/job-listings/">Cradlepoint</a> </li>
 <li><a href="https://careers.cred.club/">Cred</a>  </li>
+    <li><a href="https://crewscale.com/jobs/">Crewscale</a> </li>
 <li><a href="https://www.credit-suisse.com/careers/en/apply.html">Credit Suisse</a></li>
 <li><a href="https://www.crestron.com/About/careers-jobs-employment-opportunities">Crestron</a></li>
 <li><a href="https://www.crowdstrike.com/careers/">Crowdstrike</a></li>
@@ -393,6 +395,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://www.healthifyme.com/careers/">Healthify me</a>  </li>
 <li><a href="https://www.here.com/careers">HERE</a></li>
 <li><a href="https://hexagon.com/about/careers">Hexagone</a></li>
+<li><a href="https://www.hostinger.com/career">Hostinger</a></li>
 <li><a href="https://tech.hotstar.com/">Hotstar</a></li>
 <li><a href="https://careers.honeywell.com/">Honeywell</a></li>
 <li><a href="https://jobs.hp.com/">HP</a></li>
